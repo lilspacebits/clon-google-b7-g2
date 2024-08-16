@@ -5,7 +5,7 @@ Proyecto realizado durante el bootcamp de TECHNOLOCHICAS PRO para desarrollar ha
 [Proyecto desplegado](https://clon-google-b7-g2-dun.vercel.app)
 
 ## PREVIEW
-![Clon Web](/miPortafolio/ASSETS/GoogleClon.JPG)
+![Clon Web](ASSETS/GoogleClon.JPG)
 
 ## TECNOLOGÍAS
 
